@@ -1,0 +1,6 @@
+nav
+  ul
+    li 
+      a href=="/grammar"  title="Grammar" class==current?("/grammar") Grammar
+    li 
+      a href=="/"  title="Home" class==current? Home
